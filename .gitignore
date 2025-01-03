@@ -1,0 +1,29 @@
+.DS_Store       # macOS
+Thumbs.db       # Windows
+*.swp           # Linux/Editor backup files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+*.test
+*.out
+*.o
+
+go.sum
+vendor/
+
+bin/
+build/
+
+.idea          # JetBrains (GoLand, IntelliJ)
+*.iml           # JetBrains project files
+.vscode/        # Visual Studio Code
+*.code-workspace
+*.sublime-workspace
+
+*.log
+.idea*
+.env
+
