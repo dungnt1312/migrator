@@ -28,5 +28,5 @@ migrator create {fileName}
 migrator run
 ```
 ```bash
-migration rollback {step}
+migrator rollback {step}
 ```
