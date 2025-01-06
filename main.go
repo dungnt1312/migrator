@@ -4,9 +4,9 @@ import (
 	"bufio"
 	"database/sql"
 	"fmt"
+	"github.com/dungnt1312/migrator/src"
 	_ "github.com/go-sql-driver/mysql"
 	"log"
-	"migrator/src"
 	"os"
 	"strings"
 )

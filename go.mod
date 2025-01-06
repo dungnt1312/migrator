@@ -1,4 +1,4 @@
-module migrator
+module github.com/dungnt1312/migrator
 
 go 1.23.4
 
